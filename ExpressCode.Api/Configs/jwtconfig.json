@@ -1,0 +1,8 @@
+{
+
+    "Expire": 3600, //token过期时间 单位s
+    "Audience": "AspNetCoreUser", //订阅者
+    "Issuer": "BlogSystem", //发起人
+    "Secret": "k123ds56jkh456ghjkl" //秘钥
+  
+}

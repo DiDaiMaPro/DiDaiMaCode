@@ -1,0 +1,9 @@
+{
+  "Redis": {
+    "Default": {
+      "Connection": "127.0.0.1:6379",
+      "InstanceName": "local",
+      "DefaultDB": 1
+    }
+  }
+}
