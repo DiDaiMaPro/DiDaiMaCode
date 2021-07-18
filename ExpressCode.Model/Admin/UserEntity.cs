@@ -11,7 +11,5 @@ namespace ExpressCode.Model
         public string name { get; set; }
         public string sex { get; set; }
         public string age { get; set; }
-
-        public string MyProperty { get; set; }
     }
 }
