@@ -13,6 +13,5 @@ namespace ExpressCode.Model
         public string age { get; set; }
 
         public string MyProperty { get; set; }
-        public int Year { get; set; }
     }
 }
